@@ -9,4 +9,4 @@
 4. Promise.resolve（）/ reject（）实现函数对象的方法
 5. Promise.all（） / race（）实现
 6. Promise.resolveDelay（）/ rejectDalay（）
-7. 实现7.ES6类版本
+7. ES6 class版本
