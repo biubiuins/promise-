@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb761d61-d4ee-4608-b85c-4172481c6a80" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Promise-class版本.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise-class版本.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="278" selection-start-line="278" selection-end-line="278" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#234#283#0" />
+                <element signature="e#313#2027#0" />
+                <element signature="e#1286#1855#0" />
+                <element signature="e#1884#1932#0" />
+                <element signature="e#1949#2020#0" />
+                <element signature="e#2233#2348#0" />
+                <element signature="e#2409#4457#0" />
+                <element signature="e#2799#4450#0" />
+                <element signature="e#4462#4529#0" />
+                <element signature="e#4756#4870#0" />
+                <element signature="e#4687#4752#0" />
+                <element signature="e#4791#5207#0" />
+                <element signature="e#5212#5275#0" />
+                <element signature="e#5314#5454#0" />
+                <element signature="e#5459#5535#0" />
+                <element signature="e#5573#6502#0" />
+                <element signature="e#6507#6572#0" />
+                <element signature="e#6611#7111#0" />
+                <element signature="e#7116#7158#0" />
+                <element signature="e#7206#7766#0" />
+                <element signature="e#7771#7810#0" />
+                <element signature="e#7857#8030#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Promise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="说明.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/说明.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this</find>
+      <find>onResolved</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/说明.md" />
+        <option value="$PROJECT_DIR$/说明.md" />
+        <option value="$PROJECT_DIR$/Promise.js" />
+        <option value="$PROJECT_DIR$/Promise.js" />
+        <option value="$PROJECT_DIR$/Promise-class版本.js" />
+        <option value="$PROJECT_DIR$/Promise.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="832" />
+    <option name="y" value="56" />
+    <option name="width" value="1052" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="promise自定义" type="b2602c69:ProjectViewProjectNode" />
+              <item name="promise自定义" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb761d61-d4ee-4608-b85c-4172481c6a80" name="Default" comment="" />
+      <created>1578664564333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578664564333</updated>
+      <workItem from="1578664565622" duration="1412000" />
+      <workItem from="1578989035612" duration="6670000" />
+      <workItem from="1579087694545" duration="8180000" />
+      <workItem from="1579252640437" duration="1196000" />
+      <workItem from="1580038087744" duration="5057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22515000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="666" y="45" width="841" height="840" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23354037" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Promise.js</url>
+          <line>125</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Promise.html</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Promise.js</url>
+          <line>256</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2662">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#160#197#0" />
+            <element signature="e#223#1534#0" />
+            <element signature="e#973#1406#0" />
+            <element signature="e#1427#1459#0" />
+            <element signature="e#1476#1531#0" />
+            <element signature="e#1535#1630#0" />
+            <element signature="e#1687#3304#0" />
+            <element signature="e#2014#3301#0" />
+            <element signature="e#3305#3356#0" />
+            <element signature="e#3403#3493#0" />
+            <element signature="e#3494#3547#0" />
+            <element signature="e#3582#3946#0" />
+            <element signature="e#4131#4195#0" />
+            <element signature="e#4229#4844#0" />
+            <element signature="e#4235#4291#0" />
+            <element signature="e#4326#4330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#160#197#0" />
+            <element signature="e#223#1534#0" />
+            <element signature="e#973#1406#0" />
+            <element signature="e#1427#1459#0" />
+            <element signature="e#1476#1531#0" />
+            <element signature="e#1535#1630#0" />
+            <element signature="e#1687#3304#0" />
+            <element signature="e#2014#3301#0" />
+            <element signature="e#3305#3356#0" />
+            <element signature="e#3403#3493#0" />
+            <element signature="e#3494#3547#0" />
+            <element signature="e#3582#3946#0" />
+            <element signature="e#4131#4195#0" />
+            <element signature="e#4229#4844#0" />
+            <element signature="e#4235#4291#0" />
+            <element signature="e#4326#4330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="108" column="45" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="45" />
+          <folding>
+            <element signature="e#160#197#0" />
+            <element signature="e#223#1534#0" />
+            <element signature="e#973#1406#0" />
+            <element signature="e#1427#1459#0" />
+            <element signature="e#1476#1531#0" />
+            <element signature="e#1535#1630#0" />
+            <element signature="e#1687#3304#0" />
+            <element signature="e#2014#3301#0" />
+            <element signature="e#3305#3356#0" />
+            <element signature="e#3403#3493#0" />
+            <element signature="e#3494#3547#0" />
+            <element signature="e#3582#3946#0" />
+            <element signature="e#4131#4195#0" />
+            <element signature="e#4229#4844#0" />
+            <element signature="e#4235#4291#0" />
+            <element signature="e#4326#4330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+          <folding>
+            <element signature="e#160#197#0" />
+            <element signature="e#223#1534#0" />
+            <element signature="e#973#1406#0" />
+            <element signature="e#1427#1459#0" />
+            <element signature="e#1476#1531#0" />
+            <element signature="e#1535#1630#0" />
+            <element signature="e#1687#3304#0" />
+            <element signature="e#2014#3301#0" />
+            <element signature="e#3305#3356#0" />
+            <element signature="e#3403#3493#0" />
+            <element signature="e#3494#3547#0" />
+            <element signature="e#3582#3946#0" />
+            <element signature="e#4131#4195#0" />
+            <element signature="e#4229#4844#0" />
+            <element signature="e#4235#4291#0" />
+            <element signature="e#4326#4330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="260" column="3" lean-forward="true" selection-end-line="275" selection-end-column="10" />
+          <folding>
+            <element signature="e#160#197#0" />
+            <element signature="e#223#1534#0" />
+            <element signature="e#973#1406#0" />
+            <element signature="e#1427#1459#0" />
+            <element signature="e#1476#1531#0" />
+            <element signature="e#1535#1630#0" />
+            <element signature="e#1687#3304#0" />
+            <element signature="e#2014#3301#0" />
+            <element signature="e#3305#3356#0" />
+            <element signature="e#3403#3493#0" />
+            <element signature="e#3494#3547#0" />
+            <element signature="e#3582#3946#0" />
+            <element signature="e#4131#4195#0" />
+            <element signature="e#4229#4844#0" />
+            <element signature="e#4235#4291#0" />
+            <element signature="e#4326#4330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise-class版本.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="278" selection-start-line="278" selection-end-line="278" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#234#283#0" />
+            <element signature="e#313#2027#0" />
+            <element signature="e#1286#1855#0" />
+            <element signature="e#1884#1932#0" />
+            <element signature="e#1949#2020#0" />
+            <element signature="e#2233#2348#0" />
+            <element signature="e#2409#4457#0" />
+            <element signature="e#2799#4450#0" />
+            <element signature="e#4462#4529#0" />
+            <element signature="e#4756#4870#0" />
+            <element signature="e#4687#4752#0" />
+            <element signature="e#4791#5207#0" />
+            <element signature="e#5212#5275#0" />
+            <element signature="e#5314#5454#0" />
+            <element signature="e#5459#5535#0" />
+            <element signature="e#5573#6502#0" />
+            <element signature="e#6507#6572#0" />
+            <element signature="e#6611#7111#0" />
+            <element signature="e#7116#7158#0" />
+            <element signature="e#7206#7766#0" />
+            <element signature="e#7771#7810#0" />
+            <element signature="e#7857#8030#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
