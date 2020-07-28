@@ -10,3 +10,5 @@
 5. Promise.all（） / race（）实现
 6. Promise.resolveDelay（）/ rejectDalay（）
 7. ES6 class版本
+
+更新promise链式调用顺序笔记及相关面试题
